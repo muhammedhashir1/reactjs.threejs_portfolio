@@ -151,7 +151,7 @@ const experiences = [
     company_name: "Arclif Inc.",
     icon: arclif,
     iconBg: "#383E56",
-    date: "Oct 2022 - Jul 2023",
+    date: "Oct 2022 - Oct 2023",
     points: [
       " Developed and managed the company's admin dashboard efficiently.",
       " Managed and enhanced various digital assets, such as company web applications, social media platforms, and e-commerce systems. Collaborated cross-functionally on design, implementation, and maintenance.",
